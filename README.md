@@ -15,19 +15,9 @@
 
 ---
 
-## 📂 Projetos em Destaque
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| [Simulador de Rede](link_do_repositorio) | Packet Tracer | Rede configurada com VLANs e roteamento. |
-| [Controle de Estoque](link_do_repositorio) | MySQL, Java | CRUD com banco de dados relacional. |
-| [API REST de Clientes](link_do_repositorio) | Java, Spring Boot | API para cadastro e consulta de clientes. |
-| [Portfólio Pessoal](link_do_repositorio) | HTML, CSS, JS | Site responsivo com meus projetos. |
-| [App de Tarefas](link_do_repositorio) | React, Node.js | Aplicativo de gerenciamento de tarefas. |
-
----
-
 📫 **Conecte-se comigo**  
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-[GitHub](https://github.com/seu-usuario)
+
+[LinkedIn](www.linkedin.com/in/alexsandro-da-silva-dev)  
+[GitHub]((https://github.com/Alexsilvasandro))
 
 
