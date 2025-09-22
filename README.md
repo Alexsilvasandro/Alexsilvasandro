@@ -18,6 +18,6 @@
 📫 **Conecte-se comigo**  
 
 [LinkedIn](www.linkedin.com/in/alexsandro-da-silva-dev)  
-[GitHub]((https://github.com/Alexsilvasandro))
+[GitHub](https://github.com/Alexsilvasandro)
 
 
